@@ -403,6 +403,7 @@ nav ul li a {
 #portfolio .portfolio-list .nav {
   display: inline-block;
   margin: 0;
+  margin-left: 40px;
 }
 
 #portfolio .portfolio-list .nav li {
@@ -623,6 +624,12 @@ nav ul li a {
   font-weight: 500;
   margin-top: 0;
   text-transform: uppercase;
+}
+
+.contactphoto img {
+  width: 500px;
+  height: auto;
+  margin-left: 20px;
 }
 
 .credits {
