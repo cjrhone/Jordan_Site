@@ -256,7 +256,7 @@ nav ul li a {
 }
 
 .header-content h1 {
-  font-size: 30px;
+  font-size: 40px;
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
@@ -631,9 +631,9 @@ nav ul li a {
 } */
 
 .contactphoto img {
-  width: 500px;
+  width: 300px;
   height: auto;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .credits {
