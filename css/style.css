@@ -631,11 +631,15 @@ nav ul li a {
 } */
 
 .contactphoto img {
-  width: 300px;
+  width: 400px;
   height: auto;
   margin-left: 10px;
 }
 
 .credits {
   font-size: 13px;
+}
+
+.info {
+  margin-left: 80px;
 }
